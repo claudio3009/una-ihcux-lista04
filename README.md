@@ -1,1 +1,1 @@
-# una-ihcux-lista04
+O try-catch é como se fosse a rede de proteção do seu código, ao invés do programa dar erro e fechar na cara do usuário quando algo sai errado, ele serve para capturar o erro no meio do caminho e dar uma saída válida, sem erro.
